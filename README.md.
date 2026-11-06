@@ -5,3 +5,10 @@ Your Next Save. Your Biggest Challenge!
 Discover unique Football Manager 2027 challenges,
 rules, objectives and winning conditions.
 FMChallengeHub website deployment.
+Website design: Finish the homepage, navigation, branding and layout.
+Challenge library: Add all your FM27 challenges, categories, filters and search
+Challenge detail pages: Rules, objectives, difficulty, win conditions and start challenge buttons.
+Community features: User profiles, saved challenges and progress journals.
+Gamification: Points, achievements and leaderboards.
+Supabase: Add accounts and database functionality when the frontend is ready.
+Goal of the week where the user can upload their videos and users can vote
